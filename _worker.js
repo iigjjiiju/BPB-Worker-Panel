@@ -11,7 +11,7 @@ let userID = '84c9dd0a-140b-45cd-9556-90049217fd88';
 
 // https://www.nslookup.io/domains/cdn.xn--b6gac.eu.org/dns-records/
 // https://www.nslookup.io/domains/cdn-all.xn--b6gac.eu.org/dns-records/
-const proxyIPs= ['cdn.xn--b6gac.eu.org', 'cdn-all.xn--b6gac.eu.org', 'edgetunnel.anycast.eu.org', '132.145.81.117', '8.217.64.144', '152.70.234.188', '8.210.92.27', '8.219.109.183'];
+const proxyIPs= ['cdn.xn--b6gac.eu.org', 'cdn-all.xn--b6gac.eu.org', 'edgetunnel.anycast.eu.org', '104.20.94.167', '104.20.144.176', '104.20.96.108', '104.20.101.79', '104.20.11.132', '104.20.58.27', '104.20.93.220', '104.20.123.152', '104.20.40.250', '104.20.211.75'];
 
 const defaultHttpPorts = ['80', '8080', '2052', '2082', '2086', '2095', '8880'];
 const defaultHttpsPorts = ['443', '8443', '2053', '2083', '2087', '2096'];
