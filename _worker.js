@@ -10,7 +10,7 @@ import { connect } from 'cloudflare:sockets';
 let userID = '84c9dd0a-140b-45cd-9556-90049217fd88';
 
 // https://www.nslookup.io/domains/bpb.yousef.isegaro.com/dns-records/
-const proxyIPs= ['www.glassdoor.com'，'icook.hk'，'time.is'，'japan.com'，'www.hugedomains.com'，'www.whoer.net'，'www.visa.com.hk'，'www.ipget.net'，'icook.tw'，'www.gov.ua'，'www.whatismyip.com'，'singapore.com'，'russia.com'，'ip.sb'，'www.4chan.org'，'www.glassdoor.com'，'xn--b6gac.eu.org'];
+const proxyIPs= ['adam.ns.cloudflare.com'];
 const defaultHttpPorts = ['80', '8080', '2052', '2082', '2086', '2095', '8880'];
 const defaultHttpsPorts = ['443', '8443', '2053', '2083', '2087', '2096'];
 let proxyIP = proxyIPs[Math.floor(Math.random() * proxyIPs.length)];
